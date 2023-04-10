@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albin CR, You can call me Albi.</h1>
 <h3 align="center">A creative app developer from India :)</h3>
 
-
 [![GitHub followers](https://img.shields.io/github/followers/albinzr.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/albinzr?tab=followers)
 
 ### Skills 
