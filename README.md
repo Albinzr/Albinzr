@@ -17,26 +17,3 @@
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albinzr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Albinzr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albinzr&show_icons=true&locale=en&theme=tokyonight" alt="Albinzr" width="410" /></p>
-
-<hr>
-
- ![Snake animation](https://github.com/Albinzr/snakeMe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-<hr>
-
-<h3 align="center"> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-- <a href="https://twitter.com/albinzr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cuongstf" height="20" width="20" /></a>
-- <a href="https://linkedin.com/in//in/albinzr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/in/cuongcoder/" height="20" width="20" /></a>
-- <a href="https://stackoverflow.com/users/4595674/albi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/4595674/albi" height="20" width="20" /></a>
-- <a href="https://fb.com/albinzr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyenmanhcuong.stf" height="20" width="20" /></a>
-- <a href="https://instagram.com/albin._.r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cuong_dev" height="20" width="20" /></a>
-- 
-</p>
